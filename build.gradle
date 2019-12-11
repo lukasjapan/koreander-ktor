@@ -8,7 +8,7 @@ apply plugin: 'maven'
 
 def koreanderKtorGroup = 'de.cvguy.kotlin'
 def koreanderKtorName = 'koreander-ktor'
-def koreanderKtorVersion = '0.0.2'
+def koreanderKtorVersion = '0.0.10'
 
 group koreanderKtorGroup
 version koreanderKtorVersion
